@@ -6,7 +6,7 @@ st.title("Livestock and Raw Milk Dashboard")
 
 DATA_URL = (
     'https://raw.githubusercontent.com/'
-    'fundaBa/ca2-dashboard/main/FAOSTAT_livestock_and_milk.csv'
+    'fundaBa/ca2-dashboard/main/ml_livestock_and_milk.csv'
 )
 
 def load_data():
