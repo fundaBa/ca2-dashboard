@@ -5,9 +5,11 @@ import numpy as np
 st.title("Agricultural Production Dashboard")
 
 DATA_URL = (
-    "https://raw.githubusercontent.com/"
-    "CCT-Dublin/ca2-sem-1-fundaBa/main/FAOSTAT_livestock_and_milk.csv"
+    "https://github.com/"
+    "fundaBa/ca2-dashboard/blob/main/FAOSTAT_livestock_and_milk.csv"
 )
+
+https://github.com/fundaBa/ca2-dashboard/blob/main/FAOSTAT_livestock_and_milk.csv
 
 def load_data():
     data = pd.read_csv(DATA_URL)
