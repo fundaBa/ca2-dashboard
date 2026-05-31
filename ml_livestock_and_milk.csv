@@ -1,0 +1,377 @@
+"Area","Year","Element","Item","Unit","Value"
+"Denmark",2010,"Stocks","Cattle","An",1571050
+"Denmark",2011,"Stocks","Cattle","An",1567971
+"Denmark",2012,"Stocks","Cattle","An",1606826
+"Denmark",2013,"Stocks","Cattle","An",1614644
+"Denmark",2014,"Stocks","Cattle","An",1563535
+"Denmark",2015,"Stocks","Cattle","An",1551948
+"Denmark",2016,"Stocks","Cattle","An",1568288
+"Denmark",2017,"Stocks","Cattle","An",1545417
+"Denmark",2018,"Stocks","Cattle","An",1530000
+"Denmark",2019,"Stocks","Cattle","An",1500000
+"Denmark",2020,"Stocks","Cattle","An",1500000
+"Denmark",2021,"Stocks","Cattle","An",1480000
+"Denmark",2022,"Stocks","Cattle","An",1466000
+"Denmark",2023,"Stocks","Cattle","An",1434870
+"Denmark",2024,"Stocks","Cattle","An",1413860
+"Denmark",2019,"Stocks","Goats","An",18800
+"Denmark",2022,"Stocks","Goats","An",18280
+"Denmark",2010,"Production","Raw milk of cattle","t",4909400
+"Denmark",2011,"Production","Raw milk of cattle","t",4880500
+"Denmark",2012,"Production","Raw milk of cattle","t",4995020
+"Denmark",2013,"Production","Raw milk of cattle","t",5104720
+"Denmark",2014,"Production","Raw milk of cattle","t",5191100
+"Denmark",2015,"Production","Raw milk of cattle","t",5356270
+"Denmark",2016,"Production","Raw milk of cattle","t",5454960
+"Denmark",2017,"Production","Raw milk of cattle","t",5557160
+"Denmark",2018,"Production","Raw milk of cattle","t",5615200
+"Denmark",2019,"Production","Raw milk of cattle","t",5615000
+"Denmark",2020,"Production","Raw milk of cattle","t",5666000
+"Denmark",2021,"Production","Raw milk of cattle","t",5644000
+"Denmark",2022,"Production","Raw milk of cattle","t",5664000
+"Denmark",2023,"Production","Raw milk of cattle","t",5687000
+"Denmark",2024,"Production","Raw milk of cattle","t",5690000
+"Denmark",2018,"Production","Raw milk of goats","t",0
+"Denmark",2019,"Production","Raw milk of goats","t",0
+"Denmark",2020,"Production","Raw milk of goats","t",0
+"Denmark",2021,"Production","Raw milk of goats","t",0
+"Denmark",2022,"Production","Raw milk of goats","t",0
+"Denmark",2023,"Production","Raw milk of goats","t",0
+"Denmark",2024,"Production","Raw milk of goats","t",0
+"Denmark",2018,"Production","Raw milk of sheep","t",0
+"Denmark",2019,"Production","Raw milk of sheep","t",0
+"Denmark",2020,"Production","Raw milk of sheep","t",0
+"Denmark",2021,"Production","Raw milk of sheep","t",0
+"Denmark",2022,"Production","Raw milk of sheep","t",0
+"Denmark",2023,"Production","Raw milk of sheep","t",0
+"Denmark",2024,"Production","Raw milk of sheep","t",0
+"Denmark",2010,"Stocks","Sheep","An",159626
+"Denmark",2011,"Stocks","Sheep","An",143890
+"Denmark",2012,"Stocks","Sheep","An",153691
+"Denmark",2013,"Stocks","Sheep","An",151300
+"Denmark",2014,"Stocks","Sheep","An",153482
+"Denmark",2015,"Stocks","Sheep","An",144418
+"Denmark",2016,"Stocks","Sheep","An",147209
+"Denmark",2017,"Stocks","Sheep","An",154129
+"Denmark",2018,"Stocks","Sheep","An",143797
+"Denmark",2019,"Stocks","Sheep","An",138010
+"Denmark",2020,"Stocks","Sheep","An",135339
+"Denmark",2021,"Stocks","Sheep","An",135487
+"Denmark",2022,"Stocks","Sheep","An",132510
+"Denmark",2023,"Stocks","Sheep","An",152572
+"Denmark",2024,"Stocks","Sheep","An",147980
+"France",2010,"Stocks","Cattle","An",19555173
+"France",2011,"Stocks","Cattle","An",19085561
+"France",2012,"Stocks","Cattle","An",19005649
+"France",2013,"Stocks","Cattle","An",19095797
+"France",2014,"Stocks","Cattle","An",19248627
+"France",2015,"Stocks","Cattle","An",19386522
+"France",2016,"Stocks","Cattle","An",19373382
+"France",2017,"Stocks","Cattle","An",18953568
+"France",2018,"Stocks","Cattle","An",18613040
+"France",2019,"Stocks","Cattle","An",18172970
+"France",2020,"Stocks","Cattle","An",17815670
+"France",2021,"Stocks","Cattle","An",17330080
+"France",2022,"Stocks","Cattle","An",16986190
+"France",2023,"Stocks","Cattle","An",16806900
+"France",2024,"Stocks","Cattle","An",16478260
+"France",2010,"Stocks","Goats","An",1436109
+"France",2011,"Stocks","Goats","An",1381209
+"France",2012,"Stocks","Goats","An",1307753
+"France",2013,"Stocks","Goats","An",1290623
+"France",2014,"Stocks","Goats","An",1284667
+"France",2015,"Stocks","Goats","An",1261684
+"France",2016,"Stocks","Goats","An",1258204
+"France",2017,"Stocks","Goats","An",1270737
+"France",2018,"Stocks","Goats","An",1252000
+"France",2019,"Stocks","Goats","An",1242000
+"France",2020,"Stocks","Goats","An",1413980
+"France",2021,"Stocks","Goats","An",1387770
+"France",2022,"Stocks","Goats","An",1353000
+"France",2023,"Stocks","Goats","An",1340000
+"France",2024,"Stocks","Goats","An",1339000
+"France",2010,"Production","Raw milk of cattle","t",23301219
+"France",2011,"Production","Raw milk of cattle","t",24361094
+"France",2012,"Production","Raw milk of cattle","t",23998422
+"France",2013,"Production","Raw milk of cattle","t",23747341
+"France",2014,"Production","Raw milk of cattle","t",24978950
+"France",2015,"Production","Raw milk of cattle","t",25068226
+"France",2016,"Production","Raw milk of cattle","t",25627060
+"France",2017,"Production","Raw milk of cattle","t",25539489
+"France",2018,"Production","Raw milk of cattle","t",25055100
+"France",2019,"Production","Raw milk of cattle","t",25062000
+"France",2020,"Production","Raw milk of cattle","t",25234840
+"France",2021,"Production","Raw milk of cattle","t",24760620
+"France",2022,"Production","Raw milk of cattle","t",24606350
+"France",2023,"Production","Raw milk of cattle","t",23993580
+"France",2024,"Production","Raw milk of cattle","t",24204280
+"France",2010,"Production","Raw milk of goats","t",645176
+"France",2011,"Production","Raw milk of goats","t",655252
+"France",2012,"Production","Raw milk of goats","t",613711
+"France",2013,"Production","Raw milk of goats","t",583318
+"France",2014,"Production","Raw milk of goats","t",589038
+"France",2015,"Production","Raw milk of goats","t",595488
+"France",2016,"Production","Raw milk of goats","t",628440
+"France",2017,"Production","Raw milk of goats","t",648897
+"France",2018,"Production","Raw milk of goats","t",648370
+"France",2019,"Production","Raw milk of goats","t",654880
+"France",2020,"Production","Raw milk of goats","t",709510
+"France",2021,"Production","Raw milk of goats","t",718260
+"France",2022,"Production","Raw milk of goats","t",733100
+"France",2023,"Production","Raw milk of goats","t",718100
+"France",2024,"Production","Raw milk of goats","t",703230
+"France",2010,"Production","Raw milk of sheep","t",259241
+"France",2011,"Production","Raw milk of sheep","t",273089
+"France",2012,"Production","Raw milk of sheep","t",270706
+"France",2013,"Production","Raw milk of sheep","t",260724
+"France",2014,"Production","Raw milk of sheep","t",259677
+"France",2015,"Production","Raw milk of sheep","t",271078
+"France",2016,"Production","Raw milk of sheep","t",316525
+"France",2017,"Production","Raw milk of sheep","t",320679
+"France",2018,"Production","Raw milk of sheep","t",319030
+"France",2019,"Production","Raw milk of sheep","t",319410
+"France",2020,"Production","Raw milk of sheep","t",344170
+"France",2021,"Production","Raw milk of sheep","t",350200
+"France",2022,"Production","Raw milk of sheep","t",342090
+"France",2023,"Production","Raw milk of sheep","t",338820
+"France",2024,"Production","Raw milk of sheep","t",337060
+"France",2010,"Stocks","Sheep","An",7962418
+"France",2011,"Stocks","Sheep","An",7658771
+"France",2012,"Stocks","Sheep","An",7461934
+"France",2013,"Stocks","Sheep","An",7239057
+"France",2014,"Stocks","Sheep","An",7181130
+"France",2015,"Stocks","Sheep","An",7064541
+"France",2016,"Stocks","Sheep","An",7045970
+"France",2017,"Stocks","Sheep","An",6901456
+"France",2018,"Stocks","Sheep","An",7166000
+"France",2019,"Stocks","Sheep","An",7105000
+"France",2020,"Stocks","Sheep","An",6998710
+"France",2021,"Stocks","Sheep","An",6994630
+"France",2022,"Stocks","Sheep","An",6746000
+"France",2023,"Stocks","Sheep","An",6802000
+"France",2024,"Stocks","Sheep","An",6607000
+"Germany",2010,"Stocks","Cattle","An",12809492
+"Germany",2011,"Stocks","Cattle","An",12562600
+"Germany",2012,"Stocks","Cattle","An",12477389
+"Germany",2013,"Stocks","Cattle","An",12587020
+"Germany",2014,"Stocks","Cattle","An",12742190
+"Germany",2015,"Stocks","Cattle","An",12635456
+"Germany",2016,"Stocks","Cattle","An",12466586
+"Germany",2017,"Stocks","Cattle","An",12281195
+"Germany",2018,"Stocks","Cattle","An",11949090
+"Germany",2019,"Stocks","Cattle","An",11639530
+"Germany",2020,"Stocks","Cattle","An",11301860
+"Germany",2021,"Stocks","Cattle","An",11039660
+"Germany",2022,"Stocks","Cattle","An",10996960
+"Germany",2023,"Stocks","Cattle","An",10836200
+"Germany",2024,"Stocks","Cattle","An",10461290
+"Germany",2010,"Stocks","Goats","An",150000
+"Germany",2011,"Stocks","Goats","An",160000
+"Germany",2012,"Stocks","Goats","An",162000
+"Germany",2013,"Stocks","Goats","An",130200
+"Germany",2014,"Stocks","Goats","An",117000
+"Germany",2015,"Stocks","Goats","An",110000
+"Germany",2016,"Stocks","Goats","An",138810
+"Germany",2017,"Stocks","Goats","An",140000
+"Germany",2018,"Stocks","Goats","An",146000
+"Germany",2019,"Stocks","Goats","An",141000
+"Germany",2020,"Stocks","Goats","An",161000
+"Germany",2021,"Stocks","Goats","An",164000
+"Germany",2022,"Stocks","Goats","An",159000
+"Germany",2023,"Stocks","Goats","An",162600
+"Germany",2024,"Stocks","Goats","An",168300
+"Germany",2010,"Production","Raw milk of cattle","t",29616284
+"Germany",2011,"Production","Raw milk of cattle","t",30323464
+"Germany",2012,"Production","Raw milk of cattle","t",30672154
+"Germany",2013,"Production","Raw milk of cattle","t",31324238
+"Germany",2014,"Production","Raw milk of cattle","t",32394969
+"Germany",2015,"Production","Raw milk of cattle","t",32684572
+"Germany",2016,"Production","Raw milk of cattle","t",32672340
+"Germany",2017,"Production","Raw milk of cattle","t",32598198
+"Germany",2018,"Production","Raw milk of cattle","t",33086810
+"Germany",2019,"Production","Raw milk of cattle","t",33080180
+"Germany",2020,"Production","Raw milk of cattle","t",33164910
+"Germany",2021,"Production","Raw milk of cattle","t",32506910
+"Germany",2022,"Production","Raw milk of cattle","t",32399050
+"Germany",2023,"Production","Raw milk of cattle","t",34012620
+"Germany",2024,"Production","Raw milk of cattle","t",33777780
+"Germany",2010,"Production","Raw milk of goats","t",29747
+"Germany",2011,"Production","Raw milk of goats","t",31337
+"Germany",2012,"Production","Raw milk of goats","t",31662
+"Germany",2013,"Production","Raw milk of goats","t",26590
+"Germany",2014,"Production","Raw milk of goats","t",24526
+"Germany",2015,"Production","Raw milk of goats","t",23375
+"Germany",2016,"Production","Raw milk of goats","t",20000
+"Germany",2017,"Production","Raw milk of goats","t",18000
+"Germany",2018,"Production","Raw milk of goats","t",16190
+"Germany",2019,"Production","Raw milk of goats","t",15890
+"Germany",2020,"Production","Raw milk of goats","t",16280
+"Germany",2018,"Production","Raw milk of sheep","t",6650
+"Germany",2019,"Production","Raw milk of sheep","t",6500
+"Germany",2020,"Production","Raw milk of sheep","t",6700
+"Germany",2010,"Stocks","Sheep","An",2088541
+"Germany",2011,"Stocks","Sheep","An",2088500
+"Germany",2012,"Stocks","Sheep","An",1657800
+"Germany",2013,"Stocks","Sheep","An",1893300
+"Germany",2014,"Stocks","Sheep","An",1600776
+"Germany",2015,"Stocks","Sheep","An",1579789
+"Germany",2016,"Stocks","Sheep","An",1574300
+"Germany",2017,"Stocks","Sheep","An",1579800
+"Germany",2018,"Stocks","Sheep","An",1569900
+"Germany",2019,"Stocks","Sheep","An",1556500
+"Germany",2020,"Stocks","Sheep","An",1483700
+"Germany",2021,"Stocks","Sheep","An",1508100
+"Germany",2022,"Stocks","Sheep","An",1516900
+"Germany",2023,"Stocks","Sheep","An",1559700
+"Germany",2024,"Stocks","Sheep","An",1510900
+"Ireland",2010,"Stocks","Cattle","An",6606600
+"Ireland",2011,"Stocks","Cattle","An",6493000
+"Ireland",2012,"Stocks","Cattle","An",6754100
+"Ireland",2013,"Stocks","Cattle","An",6902600
+"Ireland",2014,"Stocks","Cattle","An",6926100
+"Ireland",2015,"Stocks","Cattle","An",6963500
+"Ireland",2016,"Stocks","Cattle","An",7221200
+"Ireland",2017,"Stocks","Cattle","An",7363498
+"Ireland",2018,"Stocks","Cattle","An",6593490
+"Ireland",2019,"Stocks","Cattle","An",6559650
+"Ireland",2020,"Stocks","Cattle","An",6529440
+"Ireland",2021,"Stocks","Cattle","An",6649310
+"Ireland",2022,"Stocks","Cattle","An",6551830
+"Ireland",2023,"Stocks","Cattle","An",6525960
+"Ireland",2024,"Stocks","Cattle","An",6308300
+"Ireland",2010,"Stocks","Goats","An",10500
+"Ireland",2011,"Stocks","Goats","An",11400
+"Ireland",2012,"Stocks","Goats","An",10300
+"Ireland",2013,"Stocks","Goats","An",8700
+"Ireland",2014,"Stocks","Goats","An",8600
+"Ireland",2015,"Stocks","Goats","An",10800
+"Ireland",2016,"Stocks","Goats","An",9900
+"Ireland",2017,"Stocks","Goats","An",8285
+"Ireland",2018,"Stocks","Goats","An",9349
+"Ireland",2019,"Stocks","Goats","An",8770
+"Ireland",2020,"Stocks","Goats","An",8800
+"Ireland",2021,"Stocks","Goats","An",9400
+"Ireland",2022,"Stocks","Goats","An",9240
+"Ireland",2023,"Stocks","Goats","An",9200
+"Ireland",2024,"Stocks","Goats","An",7300
+"Ireland",2010,"Production","Raw milk of cattle","t",5327000
+"Ireland",2011,"Production","Raw milk of cattle","t",5536680
+"Ireland",2012,"Production","Raw milk of cattle","t",5387770
+"Ireland",2013,"Production","Raw milk of cattle","t",5583670
+"Ireland",2014,"Production","Raw milk of cattle","t",5816220
+"Ireland",2015,"Production","Raw milk of cattle","t",6585120
+"Ireland",2016,"Production","Raw milk of cattle","t",6851430
+"Ireland",2017,"Production","Raw milk of cattle","t",7478160
+"Ireland",2018,"Production","Raw milk of cattle","t",7831250
+"Ireland",2019,"Production","Raw milk of cattle","t",8244870
+"Ireland",2020,"Production","Raw milk of cattle","t",8561470
+"Ireland",2021,"Production","Raw milk of cattle","t",9039990
+"Ireland",2022,"Production","Raw milk of cattle","t",9108280
+"Ireland",2023,"Production","Raw milk of cattle","t",8730710
+"Ireland",2018,"Production","Raw milk of goats","t",0
+"Ireland",2019,"Production","Raw milk of goats","t",0
+"Ireland",2020,"Production","Raw milk of goats","t",0
+"Ireland",2021,"Production","Raw milk of goats","t",0
+"Ireland",2022,"Production","Raw milk of goats","t",0
+"Ireland",2023,"Production","Raw milk of goats","t",0
+"Ireland",2018,"Production","Raw milk of sheep","t",0
+"Ireland",2019,"Production","Raw milk of sheep","t",0
+"Ireland",2020,"Production","Raw milk of sheep","t",0
+"Ireland",2021,"Production","Raw milk of sheep","t",0
+"Ireland",2022,"Production","Raw milk of sheep","t",0
+"Ireland",2023,"Production","Raw milk of sheep","t",0
+"Ireland",2010,"Stocks","Sheep","An",4745400
+"Ireland",2011,"Stocks","Sheep","An",4830000
+"Ireland",2012,"Stocks","Sheep","An",5170000
+"Ireland",2013,"Stocks","Sheep","An",5007000
+"Ireland",2014,"Stocks","Sheep","An",5096800
+"Ireland",2015,"Stocks","Sheep","An",5138700
+"Ireland",2016,"Stocks","Sheep","An",5179200
+"Ireland",2017,"Stocks","Sheep","An",5197140
+"Ireland",2018,"Stocks","Sheep","An",3798480
+"Ireland",2019,"Stocks","Sheep","An",3809370
+"Ireland",2020,"Stocks","Sheep","An",3877220
+"Ireland",2021,"Stocks","Sheep","An",3991180
+"Ireland",2022,"Stocks","Sheep","An",4018030
+"Ireland",2023,"Stocks","Sheep","An",3740910
+"Ireland",2024,"Stocks","Sheep","An",3591640
+"Netherlands (Kingdom of the)",2010,"Stocks","Cattle","An",3975190
+"Netherlands (Kingdom of the)",2011,"Stocks","Cattle","An",3885350
+"Netherlands (Kingdom of the)",2012,"Stocks","Cattle","An",3879250
+"Netherlands (Kingdom of the)",2013,"Stocks","Cattle","An",3999220
+"Netherlands (Kingdom of the)",2014,"Stocks","Cattle","An",4169000
+"Netherlands (Kingdom of the)",2015,"Stocks","Cattle","An",4315000
+"Netherlands (Kingdom of the)",2016,"Stocks","Cattle","An",4294000
+"Netherlands (Kingdom of the)",2017,"Stocks","Cattle","An",4030000
+"Netherlands (Kingdom of the)",2018,"Stocks","Cattle","An",3690000
+"Netherlands (Kingdom of the)",2019,"Stocks","Cattle","An",3721000
+"Netherlands (Kingdom of the)",2020,"Stocks","Cattle","An",3691000
+"Netherlands (Kingdom of the)",2021,"Stocks","Cattle","An",3705000
+"Netherlands (Kingdom of the)",2022,"Stocks","Cattle","An",3751000
+"Netherlands (Kingdom of the)",2023,"Stocks","Cattle","An",3739000
+"Netherlands (Kingdom of the)",2024,"Stocks","Cattle","An",3562000
+"Netherlands (Kingdom of the)",2010,"Stocks","Goats","An",352830
+"Netherlands (Kingdom of the)",2011,"Stocks","Goats","An",380350
+"Netherlands (Kingdom of the)",2012,"Stocks","Goats","An",396730
+"Netherlands (Kingdom of the)",2013,"Stocks","Goats","An",412550
+"Netherlands (Kingdom of the)",2014,"Stocks","Goats","An",441000
+"Netherlands (Kingdom of the)",2015,"Stocks","Goats","An",468000
+"Netherlands (Kingdom of the)",2016,"Stocks","Goats","An",504000
+"Netherlands (Kingdom of the)",2017,"Stocks","Goats","An",532870
+"Netherlands (Kingdom of the)",2018,"Stocks","Goats","An",518000
+"Netherlands (Kingdom of the)",2019,"Stocks","Goats","An",551000
+"Netherlands (Kingdom of the)",2020,"Stocks","Goats","An",557000
+"Netherlands (Kingdom of the)",2021,"Stocks","Goats","An",575000
+"Netherlands (Kingdom of the)",2022,"Stocks","Goats","An",570000
+"Netherlands (Kingdom of the)",2023,"Stocks","Goats","An",566000
+"Netherlands (Kingdom of the)",2024,"Stocks","Goats","An",552000
+"Netherlands (Kingdom of the)",2010,"Production","Raw milk of cattle","t",11626123
+"Netherlands (Kingdom of the)",2011,"Production","Raw milk of cattle","t",11641718
+"Netherlands (Kingdom of the)",2012,"Production","Raw milk of cattle","t",11675448
+"Netherlands (Kingdom of the)",2013,"Production","Raw milk of cattle","t",12212690
+"Netherlands (Kingdom of the)",2014,"Production","Raw milk of cattle","t",12473023
+"Netherlands (Kingdom of the)",2015,"Production","Raw milk of cattle","t",13330873
+"Netherlands (Kingdom of the)",2016,"Production","Raw milk of cattle","t",14324294
+"Netherlands (Kingdom of the)",2017,"Production","Raw milk of cattle","t",14297361
+"Netherlands (Kingdom of the)",2018,"Production","Raw milk of cattle","t",14090000
+"Netherlands (Kingdom of the)",2019,"Production","Raw milk of cattle","t",14555000
+"Netherlands (Kingdom of the)",2020,"Production","Raw milk of cattle","t",14522000
+"Netherlands (Kingdom of the)",2021,"Production","Raw milk of cattle","t",14217250
+"Netherlands (Kingdom of the)",2022,"Production","Raw milk of cattle","t",14533740
+"Netherlands (Kingdom of the)",2023,"Production","Raw milk of cattle","t",14685300
+"Netherlands (Kingdom of the)",2024,"Production","Raw milk of cattle","t",14348210
+"Netherlands (Kingdom of the)",2010,"Production","Raw milk of goats","t",178950
+"Netherlands (Kingdom of the)",2011,"Production","Raw milk of goats","t",193710
+"Netherlands (Kingdom of the)",2012,"Production","Raw milk of goats","t",217330
+"Netherlands (Kingdom of the)",2013,"Production","Raw milk of goats","t",196366
+"Netherlands (Kingdom of the)",2014,"Production","Raw milk of goats","t",209160
+"Netherlands (Kingdom of the)",2015,"Production","Raw milk of goats","t",220370
+"Netherlands (Kingdom of the)",2016,"Production","Raw milk of goats","t",235168
+"Netherlands (Kingdom of the)",2017,"Production","Raw milk of goats","t",246970
+"Netherlands (Kingdom of the)",2018,"Production","Raw milk of goats","t",335000
+"Netherlands (Kingdom of the)",2019,"Production","Raw milk of goats","t",386000
+"Netherlands (Kingdom of the)",2020,"Production","Raw milk of goats","t",407000
+"Netherlands (Kingdom of the)",2021,"Production","Raw milk of goats","t",387840
+"Netherlands (Kingdom of the)",2022,"Production","Raw milk of goats","t",445220
+"Netherlands (Kingdom of the)",2023,"Production","Raw milk of goats","t",427260
+"Netherlands (Kingdom of the)",2024,"Production","Raw milk of goats","t",463880
+"Netherlands (Kingdom of the)",2018,"Production","Raw milk of sheep","t",0
+"Netherlands (Kingdom of the)",2019,"Production","Raw milk of sheep","t",0
+"Netherlands (Kingdom of the)",2020,"Production","Raw milk of sheep","t",0
+"Netherlands (Kingdom of the)",2021,"Production","Raw milk of sheep","t",0
+"Netherlands (Kingdom of the)",2022,"Production","Raw milk of sheep","t",0
+"Netherlands (Kingdom of the)",2010,"Stocks","Sheep","An",1129500
+"Netherlands (Kingdom of the)",2011,"Stocks","Sheep","An",1088490
+"Netherlands (Kingdom of the)",2012,"Stocks","Sheep","An",1042760
+"Netherlands (Kingdom of the)",2013,"Stocks","Sheep","An",1033570
+"Netherlands (Kingdom of the)",2014,"Stocks","Sheep","An",1076000
+"Netherlands (Kingdom of the)",2015,"Stocks","Sheep","An",1032000
+"Netherlands (Kingdom of the)",2016,"Stocks","Sheep","An",1040000
+"Netherlands (Kingdom of the)",2017,"Stocks","Sheep","An",798830
+"Netherlands (Kingdom of the)",2018,"Stocks","Sheep","An",743000
+"Netherlands (Kingdom of the)",2019,"Stocks","Sheep","An",758000
+"Netherlands (Kingdom of the)",2020,"Stocks","Sheep","An",710000
+"Netherlands (Kingdom of the)",2021,"Stocks","Sheep","An",729000
+"Netherlands (Kingdom of the)",2022,"Stocks","Sheep","An",723000
+"Netherlands (Kingdom of the)",2023,"Stocks","Sheep","An",665000
+"Netherlands (Kingdom of the)",2024,"Stocks","Sheep","An",607000
