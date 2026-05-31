@@ -49,21 +49,21 @@ import matplotlib.pyplot as plt
 
 st.markdown("### Cattle Stock and Milk Production Trend")
 
-fig, ax = plt.subplots(figsize=(10, 5))
+trend_data = filtered_data[
+    filtered_data["Item"].isin(["Cattle", "Raw milk of cattle"])
+]
 
-ax.plot(
-    filtered_data["Year"],
-    filtered_data["Cattle"],
-    marker="o",
-    label="Cattle Stock"
-)
+fig, ax = plt.subplots(figsize=(10,5))
 
-ax.plot(
-    filtered_data["Year"],
-    filtered_data["Raw milk of cattle"],
-    marker="o",
-    label="Cattle Milk Production"
-)
+for item in trend_data["Item"].unique():
+    subset = trend_data[trend_data["Item"] == item]
+
+    ax.plot(
+        subset["Year"],
+        subset["Value"],
+        marker="o",
+        label=item
+    )
 
 ax.set_xlabel("Year")
 ax.set_ylabel("Value")
