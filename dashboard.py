@@ -53,14 +53,14 @@ fig, ax = plt.subplots(figsize=(10, 5))
 
 ax.plot(
     filtered_data["Year"],
-    filtered_data["cattle"],
+    filtered_data["Cattle"],
     marker="o",
     label="Cattle Stock"
 )
 
 ax.plot(
     filtered_data["Year"],
-    filtered_data["cattle_milk"],
+    filtered_data["Raw milk of cattle"],
     marker="o",
     label="Cattle Milk Production"
 )
