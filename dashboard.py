@@ -19,8 +19,28 @@ st.subheader("Livestock and Milk Dataset")
 
 st.write(data)
 
-st.subheader("Dataset Information")
+st.markdown("""
+### Dataset Overview
+
+This dashboard presents livestock population and milk production data from selected European countries.
+The dataset includes information on cattle, goats, sheep, cattle milk production, goat milk production, and sheep milk production collected over multiple years.
+
+The dashboard allows users to explore production trends, relationships between variables, and machine learning results generated during the analysis.
+""")
+
+st.markdown("### Dataset Information")
 
 st.write(f"Number of Records: {data.shape[0]}")
 st.write(f"Number of Variables: {data.shape[1]}")
 st.write(f"Countries Included: {data['Area'].nunique()}")
+
+st.markdown("### Country Filter")
+
+selected_country = st.selectbox(
+    "Select a Country",
+    sorted(data["Area"].unique())
+)
+
+filtered_data = data[data["Area"] == selected_country]
+
+st.write(filtered_data)
