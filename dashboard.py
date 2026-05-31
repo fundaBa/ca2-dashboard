@@ -44,3 +44,31 @@ selected_country = st.selectbox(
 filtered_data = data[data["Area"] == selected_country]
 
 st.write(filtered_data)
+
+import matplotlib.pyplot as plt
+
+st.markdown("### Cattle Stock and Milk Production Trend")
+
+fig, ax = plt.subplots(figsize=(10, 5))
+
+ax.plot(
+    filtered_data["Year"],
+    filtered_data["cattle"],
+    marker="o",
+    label="Cattle Stock"
+)
+
+ax.plot(
+    filtered_data["Year"],
+    filtered_data["cattle_milk"],
+    marker="o",
+    label="Cattle Milk Production"
+)
+
+ax.set_xlabel("Year")
+ax.set_ylabel("Value")
+ax.set_title(f"Cattle Stock and Milk Production in {selected_country}")
+
+ax.legend()
+
+st.pyplot(fig)
