@@ -5,8 +5,7 @@ import numpy as np
 st.title("Agricultural Production Dashboard")
 
 DATA_URL = ('https://github.com/'
-    'fundaBa/ca2-dashboard/blob/main/FAOSTAT_livestock_and_milk.csv"
-)
+          'fundaBa/ca2-dashboard/blob/main/FAOSTAT_livestock_and_milk.csv')
 
 
 def load_data():
